@@ -1,2 +1,3 @@
 # finanzas
-Espacio para compartir códigos en Python para finanzas
+Espacio para compartir líneas de código en Python para ejemplos en finanzas.
+Instagrma : @cefcapacitar
