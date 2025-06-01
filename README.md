@@ -1,5 +1,5 @@
 # Finanzas
-Espacio para compartir líneas de código en Python para ejemplos en finanzas.
+Espacio para compartir, con fines educativos, líneas de código en Python para finanzas.
 
 Magister: Jorge Córdoba
 
