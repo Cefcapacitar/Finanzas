@@ -9,4 +9,4 @@ Este material tiene fines estrictamente educativos. Los códigos y análisis pre
 
 Magister Jorge Córdoba
 
-# Instragram : @cefcapacitar
+Instragram : @cefcapacitar
