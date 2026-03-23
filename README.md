@@ -7,6 +7,8 @@ El material está estructurado para que los estudiantes puedan copiar y pegar la
 
 Este material tiene fines estrictamente educativos. Los códigos y análisis presentados no constituyen asesoría financiera, recomendaciones de inversión ni garantía de rendimientos futuros. El uso de estos algoritmos para la toma de decisiones financieras es responsabilidad exclusiva del usuario.
 
-Magister Jorge Córdoba
+💬 ¿Dudas sobre el código o querés profundizar?
 
-Instragram : @cefcapacitar
+Cualquier consulta sobre los notebooks escribime por MD a @cefcapacitar en Instagram.
+
+Magister Jorge Córdoba
